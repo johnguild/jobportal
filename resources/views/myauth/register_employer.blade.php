@@ -14,13 +14,13 @@
 
 							<input name="password" placeholder="Your password" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter your password'" class="common-input mb-20 form-control" required="required" type="password">
 
-							<!-- <input name="company_name" placeholder="Company Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Company Name'" class="common-input mb-20 form-control" required="required" type="text">
+							<input name="company_name" placeholder="Company Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Company Name'" class="common-input mb-20 form-control" required="required" type="text">
 
 							<input name="address" placeholder="Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Address'" class="common-input mb-20 form-control" required="required" type="text">
 
 							<input name="website" placeholder="Website" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Website'" class="common-input mb-20 form-control" required="required" type="text">
 
-							<textarea class="common-textarea mt-10 form-control" name="about" placeholder="About the company" onfocus="this.placeholder = ''" onblur="this.placeholder = 'About the company'" required="required"></textarea> -->
+							<textarea class="common-textarea mt-10 form-control" name="about" placeholder="About the company" onfocus="this.placeholder = ''" onblur="this.placeholder = 'About the company'" required="required"></textarea>
 
 
 							<div class="input-group-icon mt-10">
